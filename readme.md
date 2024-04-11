@@ -4,7 +4,7 @@
 
 + Clone the repository
   ```
-  git clone git@github.com:your-username/FriendNet.git
+  git clone git@github.com:your-username/chit_chat.git
 
   ```
 
