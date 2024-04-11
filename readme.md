@@ -5,6 +5,17 @@
 + Clone the repository
   ```
   git clone git@github.com:your-username/FriendNet.git
+
+  ```
+
++ Create a virtual environment
+  ```
+  python -m venv venv
+  ```
+
++ To activate your environment
+  ```
+  source venv/bin/activate
   ```
   
 + Install the requirements
